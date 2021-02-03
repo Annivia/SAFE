@@ -1,0 +1,17 @@
+\BOOKMARK [1][-]{section.1}{Introduction}{}% 1
+\BOOKMARK [2][-]{subsection.1.1}{Problem\040Background}{section.1}% 2
+\BOOKMARK [2][-]{subsection.1.2}{Our\040work}{section.1}% 3
+\BOOKMARK [1][-]{section.2}{Assumptions\040and\040Definitions}{}% 4
+\BOOKMARK [2][-]{subsection.2.1}{Our\040Assumptions}{section.2}% 5
+\BOOKMARK [2][-]{subsection.2.2}{Variable\040Definitions}{section.2}% 6
+\BOOKMARK [1][-]{section.3}{Topologies with Certain Packet Capacity – Task 1}{}% 7
+\BOOKMARK [2][-]{subsection.3.1}{Calculating\040the\040maximum\040number\040of\040receiving\040points}{section.3}% 8
+\BOOKMARK [2][-]{subsection.3.2}{Calculating\040the\040minimum\040number\040of\040redundancy}{section.3}% 9
+\BOOKMARK [1][-]{section.4}{Topologies with Uncertain Packet Capacity – Task 2}{}% 10
+\BOOKMARK [2][-]{subsection.4.1}{Setting up an assessing model – establishing f1}{section.4}% 11
+\BOOKMARK [2][-]{subsection.4.2}{Optimization of the present model – establishing f2}{section.4}% 12
+\BOOKMARK [2][-]{subsection.4.3}{Implementation of the models – Path Enumeration}{section.4}% 13
+\BOOKMARK [1][-]{section.5}{Generalization to Topologies with Uncertain Packet Capacity – Task 3}{}% 14
+\BOOKMARK [2][-]{subsection.5.1}{Reintroduction\040of\040our\040assessing\040models\040and\040their\040equalization}{section.5}% 15
+\BOOKMARK [1][-]{section*.6}{Appendices}{}% 16
+\BOOKMARK [1][-]{appendix.a.A}{Appendix\040Code\040Example}{}% 17

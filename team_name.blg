@@ -1,0 +1,17 @@
+[0] Config.pm:312> INFO - This is Biber 2.15 (beta)
+[0] Config.pm:315> INFO - Logfile is 'team_name.blg'
+[125] biber-MSWIN64:330> INFO - === 
+[146] Biber.pm:415> INFO - Reading 'team_name.bcf'
+[256] Biber.pm:952> INFO - Found 1 citekeys in bib section 0
+[274] Biber.pm:4334> INFO - Processing section 0
+[289] Biber.pm:4523> INFO - Looking for bibtex format file 'ref.bib' for section 0
+[295] bibtex.pm:1682> INFO - LaTeX decoding ...
+[303] bibtex.pm:1494> INFO - Found BibTeX data source 'ref.bib'
+[325] Utils.pm:395> WARN - month field '12~7' in entry 'ho' is not an integer - this will probably not sort properly.
+[344] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[344] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
+[344] Biber.pm:4162> INFO - Sorting list 'nty/global//global/global' of type 'entry' with template 'nty' and locale 'en-US'
+[344] Biber.pm:4168> INFO - No sort tailoring available for locale 'en-US'
+[345] bbl.pm:651> INFO - Writing 'team_name.bbl' with encoding 'UTF-8'
+[346] bbl.pm:754> INFO - Output to team_name.bbl
+[347] Biber.pm:128> INFO - WARNINGS: 1
