@@ -19,36 +19,76 @@
 
 \refsection{0}
   \datalist[entry]{nty/global//global/global}
-    \entry{ho}{article}{}
-      \name{author}{2}{}{%
-        {{hash=29af5c060a13513d0b6fe4b822232190}{%
-           family={Holt},
-           familyi={H\bibinitperiod},
-           given={Fred\bibnamedelima B},
-           giveni={F\bibinitperiod\bibinitdelim B\bibinitperiod}}}%
-        {{hash=b672fad7794e407b33859468e1742bd6}{%
-           family={Bourassa},
-           familyi={B\bibinitperiod},
-           given={Virgil\bibnamedelima E},
-           giveni={V\bibinitperiod\bibinitdelim E\bibinitperiod}}}%
+    \entry{MR1421568}{book}{}
+      \name{author}{4}{}{%
+        {{hash=835b8c52757d98c15859b416316d9820}{%
+           family={Cormen},
+           familyi={C\bibinitperiod},
+           given={Thomas\bibnamedelima H.},
+           giveni={T\bibinitperiod\bibinitdelim H\bibinitperiod}}}%
+        {{hash=a389dea91a76366c4b4af5f52a928a76}{%
+           family={Leiserson},
+           familyi={L\bibinitperiod},
+           given={Charles\bibnamedelima E.},
+           giveni={C\bibinitperiod\bibinitdelim E\bibinitperiod}}}%
+        {{hash=3a964821f97ee17f8bb285bc61c52899}{%
+           family={Rivest},
+           familyi={R\bibinitperiod},
+           given={Ronald\bibnamedelima L.},
+           giveni={R\bibinitperiod\bibinitdelim L\bibinitperiod}}}%
+        {{hash=bc78426660400760f77758aec45e71a8}{%
+           family={Stein},
+           familyi={S\bibinitperiod},
+           given={Clifford},
+           giveni={C\bibinitperiod}}}%
       }
       \list{publisher}{1}{%
-        {Google Patents}%
+        {The MIT Press}%
       }
-      \strng{namehash}{5f0a10ac93771163d4406c3e754fd65f}
-      \strng{fullhash}{5f0a10ac93771163d4406c3e754fd65f}
-      \strng{bibnamehash}{5f0a10ac93771163d4406c3e754fd65f}
-      \strng{authorbibnamehash}{5f0a10ac93771163d4406c3e754fd65f}
-      \strng{authornamehash}{5f0a10ac93771163d4406c3e754fd65f}
-      \strng{authorfullhash}{5f0a10ac93771163d4406c3e754fd65f}
-      \field{sortinit}{H}
-      \field{sortinithash}{6db6145dae8dc9e1271a8d556090b50a}
+      \strng{namehash}{c251cdfd036d9474565c517e73c19c5d}
+      \strng{fullhash}{10f004e08c7c03d98be0da1231a869ce}
+      \strng{bibnamehash}{c251cdfd036d9474565c517e73c19c5d}
+      \strng{authorbibnamehash}{c251cdfd036d9474565c517e73c19c5d}
+      \strng{authornamehash}{c251cdfd036d9474565c517e73c19c5d}
+      \strng{authorfullhash}{10f004e08c7c03d98be0da1231a869ce}
+      \field{sortinit}{C}
+      \field{sortinithash}{4c244ceae61406cdc0cc2ce1cb1ff703}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{month}{12~7}
-      \field{note}{US Patent 6,829,634}
-      \field{title}{Broadcasting network}
-      \field{year}{2004}
+      \field{edition}{2}
+      \field{isbn}{9780262032933}
+      \field{title}{Introduction to algorithms}
+      \field{year}{2001}
+      \true{nocite}
+    \endentry
+    \entry{snapnets}{misc}{}
+      \name{author}{2}{}{%
+        {{hash=900d107125ff0ca84698cb909e4f6c51}{%
+           family={Leskovec},
+           familyi={L\bibinitperiod},
+           given={Jure},
+           giveni={J\bibinitperiod}}}%
+        {{hash=767ff42ec330eeedea785558d350f6fa}{%
+           family={Krevl},
+           familyi={K\bibinitperiod},
+           given={Andrej},
+           giveni={A\bibinitperiod}}}%
+      }
+      \strng{namehash}{8b6c59a3c7880c51055cf3864633578b}
+      \strng{fullhash}{8b6c59a3c7880c51055cf3864633578b}
+      \strng{bibnamehash}{8b6c59a3c7880c51055cf3864633578b}
+      \strng{authorbibnamehash}{8b6c59a3c7880c51055cf3864633578b}
+      \strng{authornamehash}{8b6c59a3c7880c51055cf3864633578b}
+      \strng{authorfullhash}{8b6c59a3c7880c51055cf3864633578b}
+      \field{sortinit}{L}
+      \field{sortinithash}{dad3efd0836470093a7b4a7bb756eb8c}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{\url{http://snap.stanford.edu/data}}
+      \field{month}{6}
+      \field{title}{{SNAP Datasets}: {Stanford} Large Network Dataset Collection}
+      \field{year}{2014}
+      \true{nocite}
     \endentry
   \enddatalist
 \endrefsection

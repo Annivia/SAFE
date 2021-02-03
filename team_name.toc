@@ -26,10 +26,14 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {subsection}{\numberline {4.3}Implementation of the models -- Path Enumeration}{7}{subsection.4.3}%
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {5}Generalization to Topologies with Uncertain Packet Capacity -- Task 3}{7}{section.5}%
+\contentsline {section}{\numberline {5}Generalization to Topologies with Uncertain Packet Capacity -- Task 3}{8}{section.5}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {5.1}Reintroduction of our assessing models and their equalization}{7}{subsection.5.1}%
+\contentsline {subsection}{\numberline {5.1}Reintroduction of our assessing models and their equalization}{8}{subsection.5.1}%
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{Appendices}{9}{section*.6}%
+\contentsline {subsection}{\numberline {5.2}Function calculation}{9}{subsection.5.2}%
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{Appendix \numberline {A}Code Example}{9}{appendix.a.A}%
+\contentsline {section}{\numberline {6}Conclusion}{11}{section.6}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{Appendices}{12}{section*.9}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{Appendix \numberline {A}The Code of Heat Map}{12}{appendix.a.A}%
